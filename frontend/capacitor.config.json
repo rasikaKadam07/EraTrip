@@ -1,0 +1,8 @@
+{
+  "appId": "com.eratrip.app",
+  "appName": "EraTrip",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

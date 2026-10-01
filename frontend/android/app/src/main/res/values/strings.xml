@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EraTrip</string>
+    <string name="title_activity_main">EraTrip</string>
+    <string name="package_name">com.eratrip.app</string>
+    <string name="custom_url_scheme">com.eratrip.app</string>
+</resources>
